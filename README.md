@@ -1,7 +1,7 @@
 # 👨‍💻 Perfil de usuario: ARTEM FOX
 
 ## 📋 Información básica
-* **Edad:** 18 años
+* **Edad:** 19 años
 * **Ubicación:** Buenos Aires, Argentina
 * **Educación:** Último año de la secundaria (orientación Informática)
 * **Idiomas:** Ruso (nativo), inglés, español, serbio
